@@ -90,7 +90,7 @@ class controllerContacto extends Controller
         //eliminar
         $contacto->delete();
 
-        // return $product;
+        // return 
         return redirect()->route('index')->with([ 'message' => 'Se ha ELIMINADO correctamente el contacto' ]);
 
     }

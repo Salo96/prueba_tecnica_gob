@@ -7,7 +7,7 @@
 
          
             <div class="text-center">
-                <h1>Añadir Contacto</h1>
+                <h1>Editar Contacto</h1>
             </div>
 
             
